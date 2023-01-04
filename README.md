@@ -3,7 +3,7 @@
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadir1805&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/nadir1805/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadir1805&show_icons=true&theme=radical)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
