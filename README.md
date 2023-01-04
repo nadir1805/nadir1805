@@ -4,7 +4,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadir1805&theme=dark)](https://git.io/streak-stats)
 ![Nadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadir1805&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadir1805&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadir1805&layout=compact)](https://github.com/nadir1805/github-readme-stats)
 
 
 <div id="badges" align="center">
